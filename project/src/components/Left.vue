@@ -31,6 +31,7 @@
         background-color: white;
         line-height: 50px;
         text-align: center;
+        cursor: pointer;
     }
 </style>
 

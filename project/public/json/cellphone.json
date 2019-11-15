@@ -1,0 +1,42 @@
+[
+    {
+        "goodName": "Iphone 1",
+        "img": "img/cellphone/cellphone1.png"
+    },
+    {
+        "goodName": "Iphone 2",
+        "img": "img/cellphone/cellphone2.png"
+    },
+    {
+        "goodName": "Iphone 3",
+        "img": "img/cellphone/cellphone3.png"
+    },
+    {
+        "goodName": "Iphone 4",
+        "img": "img/cellphone/cellphone4.png"
+    },
+    {
+        "goodName": "Iphone 5",
+        "img": "img/cellphone/cellphone5.png"
+    },
+    {
+        "goodName": "Iphone 6",
+        "img": "img/cellphone/cellphone6.png"
+    },
+    {
+        "goodName": "Iphone 7",
+        "img": "img/cellphone/cellphone7.png"
+    },
+    {
+        "goodName": "Iphone 8",
+        "img": "img/cellphone/cellphone8.png"
+    },
+    {
+        "goodName": "Iphone 9",
+        "img": "img/cellphone/cellphone9.png"
+    },
+    {
+        "goodName": "Iphone 10",
+        "img": "img/cellphone/cellphone10.png"
+    }
+]

@@ -39,7 +39,6 @@
     }
     .left, .right {
         background-color: #f5f5f5;
-        height: 500px;
     }
 </style>
 
