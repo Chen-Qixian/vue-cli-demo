@@ -11,15 +11,17 @@ Vue.use(VueRouter)
 const routes = [
   {
     path: '/',
-    component: First
-  },
-  {
-    path: '/a',
-    component: A
-  },
-  {
-    path: '/b',
-    component: B
+    component: First,
+    children: [
+      {
+        path: '/a',
+        component: A
+      },
+      {
+        path: '/b',
+        component: B
+      }
+    ]
   },
   {
     path: '/about',
